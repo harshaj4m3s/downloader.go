@@ -3,7 +3,7 @@ This is simple Go-based downloader which can download the files by spliting it i
 
 This code provides command-line interface to download files (Still in development)
 
-##Dependencies
+## Dependencies
 
 This should work after installing 
 * `github.com/cheggaaa/pb`
